@@ -9,3 +9,4 @@ Revision History:
 | Rev # |   Date     |    Description
 |-------|------------|--------------------
 | 1     | 8/3/19     |  Started gpio configuration.
+| 2     | 8/7/19     | Finished initial gpio methods, made pushbutton demonstration.
